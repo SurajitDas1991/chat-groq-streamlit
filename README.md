@@ -7,4 +7,5 @@
 Observations:
 
 - The groq api is meant to be fast - that has not been my experience but could be related to my laptop hardware limitations running on a Lenovo Legion Y740-15ICH (i7-8750H, RTX 2070 Max-Q)
-- 
+
+![streamlit-ui](image.png)
